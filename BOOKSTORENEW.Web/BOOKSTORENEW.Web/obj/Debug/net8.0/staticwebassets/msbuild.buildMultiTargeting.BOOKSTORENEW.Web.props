@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BOOKSTORENEW.Web.props" />
+</Project>

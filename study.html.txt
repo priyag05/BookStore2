@@ -1,0 +1,7 @@
+//GIT STUDY ON 5MARCH 25
+
+//git commands
+
+ls- to listen 
+git init-initalization
+cd foldername-to create a folder
